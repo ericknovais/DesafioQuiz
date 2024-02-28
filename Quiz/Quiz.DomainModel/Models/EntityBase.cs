@@ -9,10 +9,17 @@ namespace Quiz.DomainModel.Models
         public DateTime DataAtualizacao { get; set; }
 
         public StringBuilder _msgErro = new StringBuilder();
+        
         public virtual void ValidarCampos()
         {
             if (_msgErro.Length > 0)
                 throw new Exception(_msgErro.ToString());
+        }
+
+        public void ValidaCampoTexto(string valor, string NomeCampo) 
+        {
+            if (string.IsNullOrEmpty(valor))
+                _msgErro.Append($"O campo {NomeCampo} é obrigatório!");
         }
     }
 }
