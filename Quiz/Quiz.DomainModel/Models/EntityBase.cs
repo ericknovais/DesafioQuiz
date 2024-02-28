@@ -16,10 +16,10 @@ namespace Quiz.DomainModel.Models
                 throw new Exception(_msgErro.ToString());
         }
 
-        public void ValidaCampoTexto(string valor, string NomeCampo) 
+        public void ValidaCampoTexto(string valor, string nomeCampo) 
         {
             if (string.IsNullOrEmpty(valor))
-                _msgErro.Append($"O campo {NomeCampo} é obrigatório!");
+                _msgErro.Append($"O campo {nomeCampo} é obrigatório!");
         }
     }
 }
