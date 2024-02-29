@@ -1,0 +1,17 @@
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\bin\Debug\net6.0\Quiz.DataAccess.deps.json
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\bin\Debug\net6.0\Quiz.DataAccess.runtimeconfig.json
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\bin\Debug\net6.0\Quiz.DataAccess.dll
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\bin\Debug\net6.0\Quiz.DataAccess.pdb
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\bin\Debug\net6.0\Quiz.DomainModel.dll
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\bin\Debug\net6.0\Quiz.DomainModel.pdb
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\Quiz.DataAccess.csproj.AssemblyReference.cache
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\Quiz.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\Quiz.DataAccess.AssemblyInfoInputs.cache
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\Quiz.DataAccess.AssemblyInfo.cs
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\Quiz.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\Quiz.DataAccess.csproj.CopyComplete
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\Quiz.DataAccess.dll
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\refint\Quiz.DataAccess.dll
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\Quiz.DataAccess.pdb
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\Quiz.DataAccess.genruntimeconfig.cache
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DataAccess\obj\Debug\net6.0\ref\Quiz.DataAccess.dll

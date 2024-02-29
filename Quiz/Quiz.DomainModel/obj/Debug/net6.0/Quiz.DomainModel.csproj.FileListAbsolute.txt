@@ -1,0 +1,11 @@
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\bin\Debug\net6.0\Quiz.DomainModel.deps.json
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\bin\Debug\net6.0\Quiz.DomainModel.dll
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\bin\Debug\net6.0\Quiz.DomainModel.pdb
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\obj\Debug\net6.0\Quiz.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\obj\Debug\net6.0\Quiz.DomainModel.AssemblyInfoInputs.cache
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\obj\Debug\net6.0\Quiz.DomainModel.AssemblyInfo.cs
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\obj\Debug\net6.0\Quiz.DomainModel.csproj.CoreCompileInputs.cache
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\obj\Debug\net6.0\Quiz.DomainModel.dll
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\obj\Debug\net6.0\refint\Quiz.DomainModel.dll
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\obj\Debug\net6.0\Quiz.DomainModel.pdb
+D:\Projetos\DesafioQuiz\Quiz\Quiz.DomainModel\obj\Debug\net6.0\ref\Quiz.DomainModel.dll

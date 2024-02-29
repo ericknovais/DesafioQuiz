@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Quiz.DomainModel.Models
 {
     [Table("Perguntas")]
     public class Pergunta : EntityBase
     {
-        public string Descricao { get; set; }
+        public string Descricao { get; set; } = string.Empty;
 
         public override void ValidarCampos()
         {
