@@ -4,6 +4,6 @@ namespace Quiz.DomainModel.Repositories
 {
     public interface IRespostaRepository : IRepositoryBase<Resposta>
     {
-        IList<Resposta> ObterRespostaPorPerguntaID(int IdPergunta);
+        IList<Resposta> ObterRespostaPorPerguntaID(int idPergunta);
     }
 }
