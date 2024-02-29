@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l/J1JhTgqaWvwJgdOZsE4TeEO8u6Olv4kJfh6WEaI38=",
+  "Hash": "vjPv9vghkIgXqkIeJYLQIhu+eXLxb1nrCHwV8uZwiAY=",
   "Source": "Quiz.WebApp",
   "BasePath": "_content/Quiz.WebApp",
   "Mode": "Default",
@@ -644,6 +644,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "D:\\Projetos\\DesafioQuiz\\Quiz\\Quiz.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\styles.css",
+      "SourceId": "Quiz.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\DesafioQuiz\\Quiz\\Quiz.WebApp\\wwwroot\\",
+      "BasePath": "_content/Quiz.WebApp",
+      "RelativePath": "lib/bootstrap/dist/css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\styles.css"
     },
     {
       "Identity": "D:\\Projetos\\DesafioQuiz\\Quiz\\Quiz.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",

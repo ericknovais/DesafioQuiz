@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Quiz.DataAccess.Repositories;
+using Quiz.DomainModel.Models;
 
 namespace Quiz.WebApp.Controllers
 {
@@ -14,9 +15,15 @@ namespace Quiz.WebApp.Controllers
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message);
+                Alerta(ex);
+                return View(new List<Pergunta>());
             }
             
+        }
+
+        private void Alerta(Exception ex)
+        {
+            TempData["Alerta"] = ex.Message.Replace(Environment.NewLine, "</br>");
         }
     }
 }

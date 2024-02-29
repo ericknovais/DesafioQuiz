@@ -149,6 +149,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Id": "D:\\Projetos\\DesafioQuiz\\Quiz\\Quiz.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\styles.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\styles.css"
+    },
+    {
       "Id": "D:\\Projetos\\DesafioQuiz\\Quiz\\Quiz.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
